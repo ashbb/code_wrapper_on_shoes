@@ -16,7 +16,7 @@ Shoes.app :title => 'CWoS', :width => 150, :height => 108 do
 		@img.transform :center
 		@a = animate(24) do |i|
 			@img.rotate -15
-			(@a.remove; @msg.text = strong("#{App} #{Version}")) if i > 22
+			(@a.stop; @msg.text = strong("#{App} #{Version}")) if i > 22
 		end
 	end
 	button("About", :left => 75, :top => 80) do
