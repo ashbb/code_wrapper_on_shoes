@@ -18,6 +18,6 @@ ashbb
 
 NOTE
 ----
-Trial release: CWoS_v0.4.shy
+Trial release: CWoS\_v0.4.shy
 
-# my first shy file distribution. :)
+my first shy file distribution. :)
