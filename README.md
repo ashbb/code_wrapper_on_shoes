@@ -9,13 +9,9 @@ See the demo created with CamStudio.
 
 Use the latest version.
 
-*latest*
-v0.4
+__latest__ : v0.4
 
-*old*
-v0.2s , v0.3f
+__old__ : v0.2s , v0.3f
 
-
-Enjoy Ruby learning, 
-
+Enjoy Ruby learning, <br>
 ashbb
