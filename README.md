@@ -15,3 +15,9 @@ __old__ : v0.2s , v0.3f
 
 Enjoy Ruby learning, <br>
 ashbb
+
+NOTE
+----
+Trial release: CWoS_v0.4.shy
+
+# my first shy file distribution. :)
