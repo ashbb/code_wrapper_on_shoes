@@ -13,8 +13,9 @@ Use the latest version.
 v0.4
 
 *old*
-v0.2s
-v0.3f
+v0.2s , v0.3f
 
-Enjoy Ruby learning,
+
+Enjoy Ruby learning, 
+
 ashbb
