@@ -2,7 +2,7 @@
 def form1 str
   str ||= ''
   str.gsub!('<', '&lt;')
-  str << "\n# CWoS v0.4 (#{PLATFORM})\n"
+  str << "\n# CWoS v0.4a (#{PLATFORM})\n"
   "[code ruby]\n" << str << "[/code]\n"
 end
 
@@ -17,7 +17,7 @@ def form2 str
     formatted_line << line
     ((formatted_line = formatted_line.chomp) << "<br>\n")  if flag
   end
-  return formatted_line << "<br>\n<span style=\"color: rgb(51, 153, 51); font-style: italic;\"># CWoS v0.4 (#{PLATFORM})</span><br>\n"
+  return formatted_line << "<br>\n<span style=\"color: rgb(51, 153, 51); font-style: italic;\"># CWoS v0.4a (#{PLATFORM})</span><br>\n"
 end
 
 
