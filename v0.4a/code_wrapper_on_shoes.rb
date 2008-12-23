@@ -1,5 +1,5 @@
-# Code Wrapper on Shoes v0.4
-Revision = 'Code Wrapper on Shoes v0.4'
+# Code Wrapper on Shoes v0.4a
+Revision = 'Code Wrapper on Shoes v0.4a'
 CopyRight =<<EOS
 #{Revision}
 contains code by
@@ -9,6 +9,8 @@ Creature named 'Cy' created by Anita Kuno.
 (c)2008, www.rubylearning.org
 (c)2008, Paul Lutus (www.arachnoid.com)
 EOS
+
+$txt = ''
 
 Shoes.app :title => 'CWoS', :width => 150, :height => 80 do
   require 'formatter'
@@ -25,12 +27,18 @@ Shoes.app :title => 'CWoS', :width => 150, :height => 80 do
   
   opt2 = para 'on', :left => 30, :top => 60, :stroke => white
   r2.click{opt2.text = opt2.text == 'on' ? 'off' : 'on'}
- 
+  
+  para link('OW', :stroke => white){
+      @win = dialog(:title => 'clipboard'){} unless Shoes.APPS.to_s.include? 'clipboard'
+      @win.clear
+      @win.edit_box $txt, :width => 1.0, :height => 1.0
+    }, :left => 100, :top => 60
+  
 	para link('CR', :stroke => white){alert(CopyRight)}, :left => 130, :top => 60
   
 	img = image('cy.png', :left => 50, :top => 18).click do
     txt = opt2.text == 'on' ? RBeautify.beautify_string(self.clipboard ||= '') : self.clipboard
-		self.clipboard = opt1.text == 'CO' ? form1(txt) : form2(txt)
+		self.clipboard = $txt = opt1.text == 'CO' ? form1(txt) : form2(txt)
     msg.text = strong(['Hi, Enjoy? :-D', 'Yes,sir!', 'Hip, hip, hurray!'][rand(3)])
 		img.transform :center
 		a = animate(24) do |i|
