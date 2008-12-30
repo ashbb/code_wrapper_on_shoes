@@ -3,15 +3,15 @@ Code Wrapper on Shoes
 
 See the demo created with CamStudio.
 
-- download zip file
+- download CWoS_v0.4b.zip
 - unzip the file
-- run .html file
+- run CWoS_v0.4b.swf.html
 
 Use the latest version.
 
 __latest__ : v0.4b
 
-v0.4b is proper for v0.3f. See [demo](http://github.com/ashbb/code_wrapper_on_shoes/tree/master/demo/code_wrapper_on_shoes_v0.3f_demo.swf.zip)
+See [online demo](http://www.rin-shun.com/rubylearning/CWoS_v0.4b.swf.html)
 
 __usage__:
 - left blue on/off: use or not use Ruby Syntax Highlight
@@ -19,9 +19,7 @@ __usage__:
 - OW (Open Window): open dialog window which shows clipboard data
 - CR (CopyRight): open copyright window
 
-__old__ : v0.2s , v0.3f, v0.4, v0.4a
-
-Enjoy Ruby learning, <br>
+Enjoy RubyLearning, <br>
 ashbb
 
 NOTE
