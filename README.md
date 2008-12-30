@@ -18,13 +18,13 @@ __usage__:
 - OW (Open Window): open dialog window which shows clipboard data
 - CR (CopyRight): open copyright window
 
-__old__ : v0.2s , v0.3f
+__old__ : v0.2s , v0.3f, v0.4, v0.4a
 
 Enjoy Ruby learning, <br>
 ashbb
 
 NOTE
 ----
-Trial release: CWoS_v0.4b.shy
+Trial release: CWoS\_v0.4b.shy
 
-# my first shy file distribution. :)
+my first shy file distribution. :)
