@@ -9,12 +9,12 @@ See the demo created with CamStudio.
 
 Use the latest version.
 
-__latest__ : v0.4a
+__latest__ : v0.4b
+v0.4b is proper for v0.3f. See [demo](http://github.com/ashbb/code_wrapper_on_shoes/tree/master/demo/code_wrapper_on_shoes_v0.3f_demo.swf.zip)
 
 __usage__:
-- CO (Code Only): is proper for v0.3f. See [demo](http://github.com/ashbb/code_wrapper_on_shoes/tree/master/demo/code_wrapper_on_shoes_v0.3f_demo.swf.zip)
-- IT (Include Text): is proper for v0.2s. See [demo](http://github.com/ashbb/code_wrapper_on_shoes/tree/master/demo/code_wrapper_on_shoes_v0.2s_demo.zip)
-- on/off: use or not use RBeautify written by Paul Lutus
+- left blue on/off: use or not use Ruby Syntax Highlight
+- right red on/off: use or not use RBeautify written by Paul Lutus
 - OW (Open Window): open dialog window which shows clipboard data
 - CR (CopyRight): open copyright window
 
@@ -25,6 +25,6 @@ ashbb
 
 NOTE
 ----
-Trial release: CWoS_v0.4.shy
+Trial release: CWoS_v0.4b.shy
 
 # my first shy file distribution. :)
