@@ -10,6 +10,7 @@ See the demo created with CamStudio.
 Use the latest version.
 
 __latest__ : v0.4b
+
 v0.4b is proper for v0.3f. See [demo](http://github.com/ashbb/code_wrapper_on_shoes/tree/master/demo/code_wrapper_on_shoes_v0.3f_demo.swf.zip)
 
 __usage__:
