@@ -18,7 +18,7 @@ __usage__:
 - OW (Open Window): open dialog window which shows clipboard data
 - CR (CopyRight): open copyright window
 
-__old__ : v0.2s , v0.3f
+__old__ : v0.2s , v0.3f, v0.4, v0.4a
 
 Enjoy Ruby learning, <br>
 ashbb
