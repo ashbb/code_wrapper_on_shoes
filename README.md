@@ -3,9 +3,9 @@ Code Wrapper on Shoes
 
 See the demo created with CamStudio.
 
-- download CWoS_v0.4b.zip
+- download CWoS\_v0.4b.zip
 - unzip the file
-- run CWoS_v0.4b.swf.html
+- run CWoS\_v0.4b.swf.html
 
 Use the latest version.
 
