@@ -1,0 +1,13 @@
+Changes from v0.4b:
+-------------------
+
+*) DRY: Changed formatter.rb so only one version of the function form is needed. See comment for usage.
+
+*) Made the main CWoS window 155px wide and non-resizable which IMHO looks better.
+
+*) Replaced global variable $txt by instance variable @txt.
+
+*) Changed first button to toggle between 'Ruby/Text' instead of 'on/off' to make it clearer.
+
+*) Updated copyright notice and reformatted it a bit.
+
