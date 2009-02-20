@@ -42,7 +42,7 @@ Shoes.app :title => 'CWoS', :width => 155, :height => 80, :resizable => false do
   para link('CR', :stroke => white){alert(CopyRight)}, :left => 130, :top => 60
   img = image('cy.png', :left => 50, :top => 18).click do
     txt = opt2.text == 'on' ? RBeautify.beautify_string(self.clipboard ||= '') : self.clipboard
-    self.clipboard = @txt = opt1.text == 'Ruby' ? form(txt) : form(txt, false)
+    self.clipboard = @txt = form(txt, opt1.text.downcase!)
     msg.text = strong(['Hi, enjoy? :-D', 'Yes, sir!', 'Hip, hip, hurray!'][rand(3)])
     img.transform :center
     a = animate(24) do |i|
