@@ -13,7 +13,7 @@ __latest__ : v0.4b and v0.4c (\*1)
 
 See [online demo](http://www.rin-shun.com/rubylearning/CWoS_v0.4b.swf.html)
 
-\*1: v0.4c is the refactoring version by [citizen428](http://github.com/citizen428).
+\*1: v0.4c is the refactored version by [citizen428](http://github.com/citizen428).
 
 __usage__:
 
