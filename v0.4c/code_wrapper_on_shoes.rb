@@ -50,5 +50,12 @@ Shoes.app :title => 'CWoS', :width => 155, :height => 80, :resizable => false do
       (a.stop; msg.text = strong(Revision)) if i > 22
     end
   end
+
+  keypress do |k|
+    if k == :alt_o
+      filename = ask_open_file 
+      self.clipboard = File.read(filename)
+    end
+  end
 end
 
