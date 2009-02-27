@@ -4,8 +4,8 @@ CopyRight =<<EOS
 #{Revision}
 contains code by
 Satoshi Asakawa, Victor Goff,
-Paul Lutus, Michael Uplawski 
-and Michael Kohl.
+Mareike Hybsier, Paul Lutus,
+Michael Uplawski and Michael Kohl.
 
 Creature named 'Cy' created by Anita Kuno.
 
