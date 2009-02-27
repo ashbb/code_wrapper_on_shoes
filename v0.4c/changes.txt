@@ -12,3 +12,6 @@ Changes from v0.4b:
 *) Updated copyright notice and reformatted it a bit.
 
 *) Updated contributor information - vhgiii
+
+=======
+
