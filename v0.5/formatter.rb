@@ -3,7 +3,6 @@
 def form(str, mode)
   str.gsub!('<', '&lt;')
 
-  str << "\n# CWoS v0.4c (#{PLATFORM})\n"
+  str << "\n# CWoS v0.5 (#{PLATFORM})\n"
   "[code #{mode}]\n" << str << "[/code]\n"
 end
-

@@ -9,9 +9,17 @@ See the demo created with CamStudio.
 
 Use the latest version.
 
-__latest__ : v0.4b and v0.4c (\*1)
+__latest__ : v0.5
 
 See [online demo](http://www.rin-shun.com/rubylearning/CWoS_v0.4b.swf.html)
+
+__usage (v0.4c and v0.5)__:
+
+- left blue Ruby/Text: use or not use Ruby Syntax Highlight
+- right red on/off: use or not use RBeautify written by Paul Lutus
+- OW (Open Window): open dialog window which shows clipboard data
+- CR (CopyRight): open copyright window
+- Alt+o: select a file which data is copied straight to the clipboard
 
 \*1: v0.4c is the refactored version by [citizen428](http://github.com/citizen428).
 
@@ -22,20 +30,11 @@ __usage (v0.4b)__:
 - OW (Open Window): open dialog window which shows clipboard data
 - CR (CopyRight): open copyright window
 
-__usage (v0.4c)__:
-
-- left blue Ruby/Text: use or not use Ruby Syntax Highlight
-- right red on/off: use or not use RBeautify written by Paul Lutus
-- OW (Open Window): open dialog window which shows clipboard data
-- CR (CopyRight): open copyright window
-- Alt+o: select a file which data is copied straight to the clipboard
-
 Enjoy RubyLearning, <br>
 ashbb
 
 NOTE
 ----
-Trial release: CWoS\_v0.4b.shy
+Trial release: CWoS\_v0.5.shy
 
-my first shy file distribution. :)
-
+This is a shy file distribution. :)

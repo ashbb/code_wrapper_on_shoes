@@ -1,3 +1,9 @@
+Changes from v0.4c:
+-------------------
+
+*) Added mouse hovering help. This idea was suggested by [Victor Goff](http://vgoff.blogspot.com/). Thanks!
+
+
 Changes from v0.4b:
 -------------------
 
