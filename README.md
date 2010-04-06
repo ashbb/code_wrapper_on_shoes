@@ -9,7 +9,9 @@ See the demo created with CamStudio.
 
 Use the latest version.
 
-__latest__ : v0.5
+__latest__ : v0.5a
+
+Modified a little bit for Policeman. Now it works both on Shoes 0.r1134 and 0.r1408.
 
 See [online demo](http://www.rin-shun.com/rubylearning/CWoS_v0.4b.swf.html)
 
@@ -35,6 +37,6 @@ ashbb
 
 NOTE
 ----
-Trial release: CWoS\_v0.5.shy
+Trial to use CWoS\_v0.5a.shy
 
 This is a shy file distribution. :)

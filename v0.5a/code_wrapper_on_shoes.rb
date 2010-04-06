@@ -1,5 +1,5 @@
-# Code Wrapper on Shoes v0.5
-Revision = 'Code Wrapper on Shoes v0.5'
+# Code Wrapper on Shoes v0.5a
+Revision = 'Code Wrapper on Shoes v0.5a'
 CopyRight =<<EOS
 #{Revision}
 contains code by
